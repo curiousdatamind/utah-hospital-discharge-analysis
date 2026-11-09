@@ -12,6 +12,7 @@ Dataset source: https://catalog.data.gov/dataset/healthcare-cost-and-utilization
 
 
 Project Goal:
+
 Import and clean the dataset using Pandas,
 
 Explore hospital discharge trends by age group,
@@ -20,7 +21,7 @@ Compare hospital service lines and primary diagnoses,
 
 Calculate descriptive statistics,
 
-Create visualizations using Matplotlib,and
+Create visualizations using Matplotlib, and
 
 Identify patterns and relationships in the data.
 

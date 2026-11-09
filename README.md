@@ -1,7 +1,7 @@
 # utah-hospital-discharge-analysis
 Project Overview
 
-For my final Python project, I will analyze Utah hospital discharge data to identify patterns and trends in hospital utilization.
+For my final Python project, I analyzed Utah hospital discharge data to identify patterns and trends in hospital utilization.
 I previously used this dataset for my Excel final project and will now expand my analysis utilizing Python.
 
  

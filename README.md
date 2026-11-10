@@ -35,3 +35,18 @@ Pandas,
 NumPy,
 Matplotlib,
 Seaborn
+
+## Project Visualizations
+
+### 1. Hospital Discharge Trends by Encounter Type
+![Hospital Discharge Trends](figures/encounter_trends.png)
+
+### 2. Monthly Hospital Discharges by Age Group
+![Age Group Boxplots](figures/age_boxplots.png)
+
+### 3. Mean Monthly Discharges and Coefficient of Variation
+![Mean vs CV](figures/age_mean_cv.png)
+
+### 4. Linear Regression of Hospital Discharge Trends
+![Regression Trends](figures/regression_trends.png)
+
